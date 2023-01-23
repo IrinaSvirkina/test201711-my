@@ -9,3 +9,4 @@ bbb
 ccc
 ddd
 fff4
+test Discard files
